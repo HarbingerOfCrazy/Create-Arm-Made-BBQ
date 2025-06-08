@@ -1,0 +1,10 @@
+{
+  "create_arm_made_bbq.ponder.grill.header": "动力臂与烧烤架",
+  "create_arm_made_bbq.ponder.grill.text_1": "当烧烤架为输出端时，动力臂可以将食物置入加热的烧烤架的空位中。",
+  "create_arm_made_bbq.ponder.grill.text_2": "当烤串可以翻面并且动力臂持有新的烤串时，动力臂会对烤串进行翻面。",
+  "create_arm_made_bbq.ponder.grill.text_3": "当烤串翻面过后，若动力臂持有调料，则会进行调味。",
+  "create_arm_made_bbq.ponder.grill.text_4": "当烧烤架为输入端且其中的烤串烤熟时，动力臂可以从其中取走烤串。",
+  "create_arm_made_bbq.ponder.basin.header": "动力臂与配料盘",
+  "create_arm_made_bbq.ponder.basin.text_1": "动力臂可将物品置入配料盘中，并且十分智能，每个槽位只能放置同种物品，并且相同槽位可以重复摆放。",
+  "create_arm_made_bbq.ponder.basin.text_2": "当动力臂持有木棍且配料盘为其输出端时，则会尝试进行串串。配料盘中一侧放主料一侧放配料即可,顺序无关紧要。"
+}

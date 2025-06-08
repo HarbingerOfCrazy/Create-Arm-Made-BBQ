@@ -1,0 +1,10 @@
+{
+  "create_arm_made_bbq.ponder.grill.header": "Mechanical Arm and BBQ Grill",
+  "create_arm_made_bbq.ponder.grill.text_1": "When the BBQ Grill is set as an output, the Mechanical Arm can place food items into empty slots of a heated BBQ Grill.",
+  "create_arm_made_bbq.ponder.grill.text_2": "When a skewer is ready to be flipped and the Mechanical Arm is holding a new skewer, it will flip the skewer.",
+  "create_arm_made_bbq.ponder.grill.text_3": "After flipping a skewer, if the Mechanical Arm is holding seasoning, it will apply the seasoning.",
+  "create_arm_made_bbq.ponder.grill.text_4": "After flipping a skewer, if the Mechanical Arm is holding seasoning, it will apply the seasoning.",
+  "create_arm_made_bbq.ponder.basin.header": "Mechanical Arm and Seasoning Basin",
+  "create_arm_made_bbq.ponder.basin.text_1": "The Mechanical Arm can place items into the Seasoning Basin. It intelligently ensures that each slot contains only the same type of item, and allows stacking identical items in the same slot.",
+  "create_arm_made_bbq.ponder.basin.text_2": "When the Mechanical Arm holds sticks and the Seasoning Basin is set as an output, it will attempt to assemble skewers. The basin can have main ingredients on one side and seasonings on the other – the order doesn't matter."
+}
